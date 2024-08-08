@@ -11,8 +11,8 @@ import { Toaster } from "@/components/ui/toaster";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-    title: "Home - Shiva ",
-    description: "Hello there I am Shiva a full stack developer and I love to build products that make people's life easier.",
+    title: "Home - Manav "
+    description: "Hello there I am Manav a full stack developer and I love to build products that make people's life easier.",
     openGraph: {
         images: "https://www.theshiva.xyz/_next/static/media/banner.e6bde3c9.png",
     },
